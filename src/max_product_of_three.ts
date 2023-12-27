@@ -12,3 +12,4 @@ function solution(A: number[]): number {
 }
 
 console.log(solution([-3, 1, 2, -2, 5, 6]))
+export {}
