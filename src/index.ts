@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 function lengthOfLongestSubstring(s: string): number {
 	let start = 0,
 		maxLength = 0
